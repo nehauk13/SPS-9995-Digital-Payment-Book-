@@ -2,4 +2,4 @@
 
 Digital Payment Book App
 
-Deployed URL: www.digitalpaymentbookapp.apps.pcfdev.in
+Deployed URL: digitalpaymentbookapp.apps.pcfdev.in
